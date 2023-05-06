@@ -29,7 +29,7 @@ public class sbflformulae {
     }
     public static void main(String[] args) {
 
-        System.out.println("The Suspiciousness values for the 4 formulae are as follows.");
+        System.out.println("The Suspiciousness values are as follows.");
         System.out.println(tarantula());
         System.out.println(SBI());
         System.out.println(jaccard());
